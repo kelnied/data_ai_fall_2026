@@ -33,9 +33,9 @@ Join [Leland AI Builder Foundations](https://courses.joinleland.com/ai-builder/f
 Explore the different output types AI can create — from documents and spreadsheets to visualizations and images.
 
 - [x] Create documents, spreadsheets, and presentations with AI
-- [ ] Create interactive visualizations and artifacts with AI
-- [ ] Create images with AI
-- [ ] Explore more types of AI output
+- [x] Create interactive visualizations and artifacts with AI
+- [x] Create images with AI
+- [x] Explore more types of AI output
 
 ---
 
@@ -43,9 +43,9 @@ Explore the different output types AI can create — from documents and spreadsh
 
 Understand how AI works and build the muscle to use it as more than a search engine.
 
-- [ ] Write a great research prompt
-- [ ] Run a task through AI's different modes
-- [ ] Map where AI can help you in your work and life
+- [x] Write a great research prompt
+- [x] Run a task through AI's different modes
+- [x] Map where AI can help you in your work and life
 
 ---
 
@@ -54,8 +54,8 @@ Understand how AI works and build the muscle to use it as more than a search eng
 Learn to give AI the right context and the right tool for each job, then make something real with it.
 
 - [ ] Start using voice input
-- [ ] Give AI context through document uploads
-- [ ] Work with image and data uploads
+- [x] Give AI context through document uploads
+- [x] Work with image and data uploads
 
 ---
 
